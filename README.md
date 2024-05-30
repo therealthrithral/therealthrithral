@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @therealthrithral
-- 👀 I’m interested in Game Development, Python, Java
-- 🌱 I’m currently learning Java, Python
+- 👋 Hi, I’m Brian!
+- 👀 I’m interested in Game Development, C#, Java, HTML!
+- 🌱 I’m currently learning C#, HTML
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Bruno Sammartino has the longest reign as the WWWF World Heavyweight Champion at a LEGENDARY 2,803 days, only 118.94 days short of 8 years.
 
