@@ -1,6 +1,7 @@
+# Welcome to My Github Profile!
 - 👋 Hi, I’m Brian!
-- 👀 I’m interested in Game Development, C#, Java, HTML!
-- 🌱 I’m currently learning C#, HTML
+- 👀 I’m interested in Game Development, Front End Web Development (learning Full Stack)!
+- 🌱 I’m currently learning Back End Web Development, Python,
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Bruno Sammartino has the longest reign as the WWWF World Heavyweight Champion at a LEGENDARY 2,803 days, only 118.94 days short of 8 years.
 
