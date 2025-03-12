@@ -8,6 +8,7 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Bruno Sammartino has the longest reign as the WWWF World Heavyweight Champion at a LEGENDARY 2,803 days, only 118.94 days short of 8 years.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/65ea594173b4b18a31e72053?variant=dark&roadmaps=python%2Cjavascript%2Cdatastructures-and-algorithms%2Cfrontend)](https://roadmap.sh)
 <!---
 therealthrithral/therealthrithral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
